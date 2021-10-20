@@ -1,0 +1,23 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "aula de node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Emerson-91/node.git"
+  },
+  "keywords": [
+    "node",
+    "server"
+  ],
+  "author": "Emerson-91",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Emerson-91/node/issues"
+  },
+  "homepage": "https://github.com/Emerson-91/node#readme"
+}
